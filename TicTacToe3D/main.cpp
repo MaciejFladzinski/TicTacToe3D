@@ -1,5 +1,5 @@
 // project "TicTacToe3D" created by Maciej Fladziñski and Rafa³ Janas
-#include <GL/glut.h>
+#include <GL/freeglut.h>
 #include <iostream>
 
 int playingField[3][3];
