@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 
 ## General info
-The TicTacToe3D game is designed for two users. The OpenGL technology was responsible for the graphics.
+The TicTacToe3D game is designed for two users. The OpenGL technology is responsible for the graphics.
 
 ## Technologies
 * C,
